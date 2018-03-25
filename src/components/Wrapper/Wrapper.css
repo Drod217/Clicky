@@ -1,0 +1,14 @@
+.wrapper {
+    padding-top: 50px;
+    background: url("https://static1.squarespace.com/static/55687b77e4b03346fd69979b/55687bc8e4b0e642ac65bd47/57bc2a10440243fdcf811bb9/1472555496466/Stranger-Things-background.png?format=1500w");
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    width:60%;
+    margin-left:20%;
+  }
+  

@@ -1,0 +1,13 @@
+
+* {
+  box-sizing: border-box;
+}
+html, body, #root {
+  font-family: 'Righteous', cursive;
+  color: red;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background: url("https://media.immediate.co.uk/volatile/sites/3/2017/11/wv_publicity_post_launch_still_18.000001-6042fcc.jpg?quality=45&resize=620,413");
+  background-size: cover;
+}

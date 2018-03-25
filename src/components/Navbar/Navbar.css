@@ -1,0 +1,18 @@
+@font-face{
+    font-family: BenguiatBold;
+    src: url("/../BenguiatBold.ttf");
+  }
+
+
+.nav{
+	padding: 30px;
+	background-color: black;
+	color: red;
+    font-size:25px;
+    /* font-family: BenguiatBold; */
+}
+
+.title{
+	font-size:30px;
+	font-weight: bold;
+}
