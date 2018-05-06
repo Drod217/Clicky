@@ -1,63 +1,74 @@
 [
-    {
-      "id": 1,
-      "name": "Eleven",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/62/Eleven_S2_revised.png/revision/latest?cb=20171124231338"
-    },
-    {
-      "id": 2,
-      "name": "Mike",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/75/Mike_Wheeler_Season_2.jpg/revision/latest?cb=20180318115800"
-   },
-    {
-      "id": 3,
-      "name": "Will",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/62/Will_S2.png/revision/latest?cb=20180107170847"
-    },
-    {
-      "id": 4,
-      "name": "Lucas",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/03/Lucas_S2.png/revision/latest?cb=20180107171723"
-    },
-    {
-      "id": 5,
-      "name": "Dustin",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/18/Dustin_S2.png/revision/latest?cb=20180319174421"
-   },
-    {
-      "id": 6,
-      "name": "Max",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/32/Max.png/revision/latest?cb=20170213160116"
-   },
-    {
-      "id": 7,
-      "name": "Jonathan",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/0b/Jonathan-Byers-Season-2.png/revision/latest?cb=20180206233841"
-    },
-    {
-      "id": 8,
-      "name": "Nancy",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/5/5d/Nancy_S2.png/revision/latest?cb=20171229091940"
-    },
-    {
-      "id": 9,
-      "name": "Steve",
-      "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/78/Image.jpg/revision/latest?cb=20171113113237"
-   },
-   {
-     "id": 10,
-     "name": "Billy",
-     "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/10/Billy_Mayfield.png/revision/latest?cb=20170928185955"
+  {
+    "id": 1,
+    "name": "Eleven",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/62/Eleven_S2_revised.png/revision/latest?cb=20171124231338"
+  },
+  {
+    "id": 2,
+    "name": "Mike",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/75/Mike_Wheeler_Season_2.jpg/revision/latest?cb=20180318115800"
+  },
+  {
+    "id": 3,
+    "name": "Will",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/62/Will_S2.png/revision/latest?cb=20180107170847"
+  },
+  {
+    "id": 4,
+    "name": "Lucas",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/03/Lucas_S2.png/revision/latest?cb=20180107171723"
+  },
+  {
+    "id": 5,
+    "name": "Dustin",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/1/18/Dustin_S2.png/revision/latest?cb=20180319174421"
+  },
+  {
+    "id": 6,
+    "name": "Max",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/3/32/Max.png/revision/latest?cb=20170213160116"
+  },
+  {
+    "id": 7,
+    "name": "Jonathan",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/0/0b/Jonathan-Byers-Season-2.png/revision/latest?cb=20180206233841"
+  },
+  {
+    "id": 8,
+    "name": "Nancy",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/5/5d/Nancy_S2.png/revision/latest?cb=20171229091940"
+  },
+  {
+    "id": 9,
+    "name": "Steve",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/78/Image.jpg/revision/latest?cb=20171113113237"
+  },
+  {
+    "id": 10,
+    "name": "Billy",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/6/65/Billy_Hargrove.png/revision/latest?cb=20180420082904"
   },
   {
     "id": 11,
     "name": "Joyce",
-    "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/70/Joyce_S2.png/revision/latest?cb=20180319181049"
- },
- {
-   "id": 12,
-   "name": "Hopper",
-   "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/bc/Jim_Hopper_S2.png/revision/latest?cb=20171130070757"
-}
-
-  ]
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/7/70/Joyce_S2.png/revision/latest?cb=20180319181049"
+  },
+  {
+    "id": 12,
+    "name": "Hopper",
+    "image":
+      "https://vignette.wikia.nocookie.net/strangerthings8338/images/b/bc/Jim_Hopper_S2.png/revision/latest?cb=20171130070757"
+  }
+]
